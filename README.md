@@ -1,4 +1,5 @@
 # Snake-Game-Using-Java
+🐍 Classic Snake Game in Java using Swing.
 
 This is a simple Snake Game implemented in Java using Swing for the graphical interface.
 
@@ -14,7 +15,13 @@ This project was created by following the tutorial by Mukul Saini on [YouTube](h
 
 - **Movement:**
   - Use arrow keys (Up, Down, Left, Right) to control the direction of the snake.
-  
+
+## Features
+
+- Infinite screen boundaries for continuous play.
+- Responsive keyboard controls.
+- Score tracking and game over display.
+
 ## Dependencies
 
 - Java SE Development Kit (JDK)
