@@ -1,7 +1,10 @@
 # Snake-Game-Using-Java
 
-This is a simple Snake Game implemented in Java using Swing. The game features a classic Snake gameplay where the player controls a snake to eat food and grow longer while avoiding collisions with the borders and itself.
+This is a simple Snake Game implemented in Java using Swing for the graphical interface.
 
+## Overview
+
+The game features a snake that the player controls to eat randomly placed food items, growing longer each time it eats. The snake can pass through one side of the screen and reappear on the opposite side. The objective is to grow the snake as long as possible without colliding with itself.
 
 ## Tutorial Source
 
@@ -11,8 +14,7 @@ This project was created by following the tutorial by Mukul Saini on [YouTube](h
 
 - **Movement:**
   - Use arrow keys (Up, Down, Left, Right) to control the direction of the snake.
-  - Press `Space` to restart the game.
-
+  
 ## Dependencies
 
 - Java SE Development Kit (JDK)
